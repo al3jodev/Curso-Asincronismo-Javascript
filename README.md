@@ -10,6 +10,8 @@
 
 **Ejemplo**
 
+[Callback]
+
 **Recursos**
 
 - https://developer.mozilla.org/es/docs/Glossary/Callback_function
@@ -22,6 +24,8 @@
 <div style="text-align: justify">Las promesas son asíncronas, por lo que el código continuará su ejecución normalmente y luego dirá si la promesa se resolvió o se rechazó. Por lo que varias promesas pueden llegar a entrar en ejecución al mismo tiempo.</div>
 
 **Ejemplo**
+
+[Promise]
 
 **Recursos**
 - https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Promise
@@ -38,8 +42,16 @@ La palabra await se utiliza dentro de las funciones async, lo que hace que el pr
 
 **Ejemplo**
 
+[Async/Await]
+
 **Recursos**
 
 - https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/async_function
 
 [Proyecto Final]: <https://github.com/al3jodev/proyecto-curso-asincronismo>
+
+[Callback]: <https://github.com/al3jodev/Curso-Asincronismo-Javascript/tree/main/src/callback>
+
+[Promise]: <https://github.com/al3jodev/Curso-Asincronismo-Javascript/tree/main/src/promise>
+
+[Async/Await]: <https://github.com/al3jodev/Curso-Asincronismo-Javascript/tree/main/src/async>
