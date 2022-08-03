@@ -1,0 +1,23 @@
+{
+  "name": "curso_asincronismo",
+  "version": "1.0.0",
+  "description": "Curso de Asincronismo por Oscar Barajas by Platzi",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "javascript",
+    "asincronismo",
+    "callback",
+    "promesas"
+  ],
+  "author": "Alejandro Jaramillo",
+  "license": "ISC",
+  "dependencies": {
+    "node-fecth": "0.0.1-security",
+    "node-fetch": "^3.2.10",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
